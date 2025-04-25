@@ -1,0 +1,7 @@
+body {
+    background-color: #8a5f8b;
+}
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+}
